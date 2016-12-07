@@ -1,0 +1,6 @@
+D:\1gd1\Programeren\MyFourthProgram\MyFourthProgram\bin\Debug\MyFourthProgram.exe.config
+D:\1gd1\Programeren\MyFourthProgram\MyFourthProgram\obj\Debug\MyFourthProgram.csprojResolveAssemblyReference.cache
+D:\1gd1\Programeren\MyFourthProgram\MyFourthProgram\bin\Debug\MyFourthProgram.exe
+D:\1gd1\Programeren\MyFourthProgram\MyFourthProgram\bin\Debug\MyFourthProgram.pdb
+D:\1gd1\Programeren\MyFourthProgram\MyFourthProgram\obj\Debug\MyFourthProgram.exe
+D:\1gd1\Programeren\MyFourthProgram\MyFourthProgram\obj\Debug\MyFourthProgram.pdb

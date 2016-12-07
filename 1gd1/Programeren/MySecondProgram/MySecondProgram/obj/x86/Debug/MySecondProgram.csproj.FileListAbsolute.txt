@@ -1,0 +1,18 @@
+D:\git\glu\Lessen 2015-2016\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\bin\Debug\MySecondProgram.exe
+D:\git\glu\Lessen 2015-2016\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\bin\Debug\MySecondProgram.pdb
+D:\git\glu\Lessen 2015-2016\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.csprojResolveAssemblyReference.cache
+D:\git\glu\Lessen 2015-2016\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.exe
+D:\git\glu\Lessen 2015-2016\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.pdb
+D:\git\glu\Lessen 2016-2017\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.exe
+D:\git\glu\Lessen 2016-2017\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.pdb
+D:\git\glu\Lessen 2016-2017\Periode 1\1GD Programmeren 1\Les 3 Variabelen, decisions en looping\OpdrachtSchool\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.csprojResolveAssemblyReference.cache
+D:\1gd1\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.exe
+D:\1gd1\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.pdb
+D:\1gd1\MySecondProgram\MySecondProgram\bin\Debug\MySecondProgram.exe
+D:\1gd1\MySecondProgram\MySecondProgram\bin\Debug\MySecondProgram.pdb
+D:\1gd1\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.csprojResolveAssemblyReference.cache
+D:\1gd1\New folder\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.exe
+D:\1gd1\New folder\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.pdb
+D:\1gd1\New folder\MySecondProgram\MySecondProgram\bin\Debug\MySecondProgram.exe
+D:\1gd1\New folder\MySecondProgram\MySecondProgram\bin\Debug\MySecondProgram.pdb
+D:\1gd1\New folder\MySecondProgram\MySecondProgram\obj\x86\Debug\MySecondProgram.csprojResolveAssemblyReference.cache

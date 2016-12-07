@@ -1,0 +1,53 @@
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\Preload.exe.config
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\libmp3lame.32.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\libmp3lame.64.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\Preload.exe
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\Preload.pdb
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\NAudio.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\NAudio.Lame.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.D3DCompiler.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Desktop.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Diagnostics.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Direct2D1.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Direct3D11.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.DXGI.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Mathematics.dll
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\NAudio.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.D3DCompiler.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Desktop.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Diagnostics.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Direct2D1.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Direct3D11.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.DXGI.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\bin\Release\SharpDX.Mathematics.xml
+D:\1gd1\Proto\Les 2\Preload\Preload\obj\Release\Preload.exe
+D:\1gd1\Proto\Les 2\Preload\Preload\obj\Release\Preload.pdb
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\Preload.exe.config
+D:\1gd1\Proto\Les3\Preload\Preload\obj\Release\Preload.exe
+D:\1gd1\Proto\Les3\Preload\Preload\obj\Release\Preload.pdb
+D:\1gd1\Proto\Les3\Preload\Preload\obj\Release\Preload.csprojResolveAssemblyReference.cache
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\libmp3lame.32.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\libmp3lame.64.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\Preload.exe
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\Preload.pdb
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\NAudio.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\NAudio.Lame.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.D3DCompiler.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Desktop.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Diagnostics.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Direct2D1.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Direct3D11.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.DXGI.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Mathematics.dll
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\NAudio.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.D3DCompiler.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Desktop.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Diagnostics.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Direct2D1.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Direct3D11.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.DXGI.xml
+D:\1gd1\Proto\Les3\Preload\Preload\bin\Release\SharpDX.Mathematics.xml

@@ -1,0 +1,9 @@
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\bin\Debug\Glazen Koper Kaasman.exe.config
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\bin\Debug\Glazen Koper Kaasman.exe
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\bin\Debug\Glazen Koper Kaasman.pdb
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\obj\Debug\Glazen Koper Kaasman.csprojResolveAssemblyReference.cache
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\obj\Debug\Glazen_Koper_Kaasman.Form1.resources
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\obj\Debug\Glazen_Koper_Kaasman.Properties.Resources.resources
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\obj\Debug\Glazen Koper Kaasman.csproj.GenerateResource.Cache
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\obj\Debug\Glazen Koper Kaasman.exe
+D:\1gd1\Gameplay\Periode 2\Glazen Koper Kaasman\Glazen Koper Kaasman\obj\Debug\Glazen Koper Kaasman.pdb

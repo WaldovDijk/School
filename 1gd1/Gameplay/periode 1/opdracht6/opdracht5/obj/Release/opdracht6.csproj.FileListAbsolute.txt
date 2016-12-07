@@ -1,0 +1,56 @@
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\opdracht5.exe.config
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\Assets\Ameno.wav
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\libmp3lame.32.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\libmp3lame.64.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\opdracht5.exe
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\opdracht5.pdb
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\NAudio.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\NAudio.Lame.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.D3DCompiler.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Desktop.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Diagnostics.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Direct2D1.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Direct3D11.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.DXGI.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Mathematics.dll
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\NAudio.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.D3DCompiler.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Desktop.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Diagnostics.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Direct2D1.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Direct3D11.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.DXGI.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\bin\Release\SharpDX.Mathematics.xml
+D:\1gd1\Gameplay\opdracht6\opdracht5\obj\Release\opdracht6.csprojResolveAssemblyReference.cache
+D:\1gd1\Gameplay\opdracht6\opdracht5\obj\Release\opdracht5.exe
+D:\1gd1\Gameplay\opdracht6\opdracht5\obj\Release\opdracht5.pdb
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\opdracht5.exe.config
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\obj\Release\opdracht5.exe
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\obj\Release\opdracht5.pdb
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\Assets\Ameno.wav
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\libmp3lame.32.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\libmp3lame.64.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\opdracht5.exe
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\opdracht5.pdb
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\NAudio.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\NAudio.Lame.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.D3DCompiler.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Desktop.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Diagnostics.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Direct2D1.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Direct3D11.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.DXGI.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Mathematics.dll
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\NAudio.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.D3DCompiler.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Desktop.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Diagnostics.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Direct2D1.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Direct3D11.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.DXGI.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\bin\Release\SharpDX.Mathematics.xml
+D:\1gd1\Gameplay\periode 1\opdracht6\opdracht5\obj\Release\opdracht6.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\1gd1\mythirdprogram\MyThirdProgram\bin\Debug\MyThirdProgram.exe
+D:\1gd1\mythirdprogram\MyThirdProgram\bin\Debug\MyThirdProgram.pdb
+D:\1gd1\mythirdprogram\MyThirdProgram\obj\x86\Debug\MyThirdProgram.exe
+D:\1gd1\mythirdprogram\MyThirdProgram\obj\x86\Debug\MyThirdProgram.pdb
+D:\1gd1\mythirdprogram\MyThirdProgram\obj\x86\Debug\MyThirdProgram.csprojResolveAssemblyReference.cache

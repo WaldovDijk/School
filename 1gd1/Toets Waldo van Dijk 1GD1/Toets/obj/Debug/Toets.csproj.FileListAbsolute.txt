@@ -1,0 +1,9 @@
+C:\Users\Myself\Downloads\Toets Waldo van Dijk 1GD1\Toets\bin\Debug\Toets.exe.config
+C:\Users\Myself\Downloads\Toets Waldo van Dijk 1GD1\Toets\bin\Debug\Toets.exe
+C:\Users\Myself\Downloads\Toets Waldo van Dijk 1GD1\Toets\bin\Debug\Toets.pdb
+C:\Users\Myself\Downloads\Toets Waldo van Dijk 1GD1\Toets\obj\Debug\Toets.csprojResolveAssemblyReference.cache
+C:\Users\Myself\Downloads\Toets Waldo van Dijk 1GD1\Toets\obj\Debug\Toets.exe
+C:\Users\Myself\Downloads\Toets Waldo van Dijk 1GD1\Toets\obj\Debug\Toets.pdb
+D:\1gd1\Toets Waldo van Dijk 1GD1\Toets\bin\Debug\Toets.exe.config
+D:\1gd1\Toets Waldo van Dijk 1GD1\Toets\obj\Debug\Toets.exe
+D:\1gd1\Toets Waldo van Dijk 1GD1\Toets\obj\Debug\Toets.pdb

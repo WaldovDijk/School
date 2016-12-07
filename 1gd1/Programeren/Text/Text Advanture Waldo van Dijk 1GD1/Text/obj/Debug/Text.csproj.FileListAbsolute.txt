@@ -1,0 +1,30 @@
+D:\School\Text\Text\bin\Debug\Text.exe.config
+D:\School\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+D:\School\Text\Text\bin\Debug\Text.exe
+D:\School\Text\Text\bin\Debug\Text.pdb
+D:\School\Text\Text\obj\Debug\Text.exe
+D:\School\Text\Text\obj\Debug\Text.pdb
+C:\Users\waldo\Desktop\Text\Text\Text\bin\Debug\Text.exe.config
+C:\Users\waldo\Desktop\Text\Text\Text\obj\Debug\Text.exe
+C:\Users\waldo\Desktop\Text\Text\Text\obj\Debug\Text.pdb
+C:\Users\waldo\Desktop\Text\Text\Text\bin\Debug\Text.exe
+C:\Users\waldo\Desktop\Text\Text\Text\bin\Debug\Text.pdb
+C:\Users\waldo\Desktop\Text\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+D:\Text\Text\Text\bin\Debug\Text.exe.config
+D:\Text\Text\Text\obj\Debug\Text.exe
+D:\Text\Text\Text\obj\Debug\Text.pdb
+D:\Text\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+D:\Text\Text\Text\bin\Debug\Text.exe
+D:\Text\Text\Text\bin\Debug\Text.pdb
+C:\Users\Wally\Downloads\Text\Text\Text\bin\Debug\Text.exe.config
+C:\Users\Wally\Downloads\Text\Text\Text\obj\Debug\Text.exe
+C:\Users\Wally\Downloads\Text\Text\Text\obj\Debug\Text.pdb
+D:\1gd1\Programeren\Text\Text\Text\bin\Debug\Text.exe.config
+D:\1gd1\Programeren\Text\Text\Text\obj\Debug\Text.exe
+D:\1gd1\Programeren\Text\Text\Text\obj\Debug\Text.pdb
+D:\1gd1\Programeren\Text\Text Advanture Waldo van Dijk 1GD1\Text\bin\Debug\Text.exe.config
+D:\1gd1\Programeren\Text\Text Advanture Waldo van Dijk 1GD1\Text\obj\Debug\Text.exe
+D:\1gd1\Programeren\Text\Text Advanture Waldo van Dijk 1GD1\Text\obj\Debug\Text.pdb
+D:\1gd1\Programeren\Text\Text Advanture Waldo van Dijk 1GD1\Text\bin\Debug\Text.exe
+D:\1gd1\Programeren\Text\Text Advanture Waldo van Dijk 1GD1\Text\bin\Debug\Text.pdb
+D:\1gd1\Programeren\Text\Text Advanture Waldo van Dijk 1GD1\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
